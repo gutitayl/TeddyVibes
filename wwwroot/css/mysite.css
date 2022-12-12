@@ -1,0 +1,10 @@
+﻿h1 {
+    color: red;
+}
+
+body {
+    
+    background-color: #ae13e2;
+    background-image: url('../Images/Test.jpg');
+    background-size: cover;
+}
